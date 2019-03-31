@@ -1,0 +1,9 @@
+DEBUG - start
+DEBUG - candy added
+DEBUG - candy added
+DEBUG - candy added
+DEBUG - candy added
+DEBUG - calculate presents total price
+DEBUG - calculate presents total weight
+DEBUG - get the most expensive candy
+DEBUG - sort candy by calories
